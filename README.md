@@ -16,6 +16,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e3c7f715-16a0-47c6-827b-a9fea3c6e2df" alt="CrossGen pipeline — 9 stages grouped into 3 phases" width="780">
+</p>
+
+<p align="center">
+  <em>Editable source: <a href="assets/crossgen-pipeline.excalidraw">assets/crossgen-pipeline.excalidraw</a> — drag-and-drop into <a href="https://excalidraw.com">excalidraw.com</a></em>
+</p>
+
+---
+
 ## What it does
 
 You give Claude a hard problem. CrossGen runs a **9-stage analogical-reasoning pipeline** that:
